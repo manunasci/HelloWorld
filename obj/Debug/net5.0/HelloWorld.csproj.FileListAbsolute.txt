@@ -1,0 +1,16 @@
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\nasci\Google Drive\Estudos\ETEC\1 Modulo\P.C - Programação de computadores 1\Programas\Primeiro programa\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
